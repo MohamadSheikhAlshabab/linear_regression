@@ -26,3 +26,8 @@ Use poetry to create linear-regression project.
 > $ poetry add [required libraries, see demo]
 > $ touch regression.ipynb
 > $ jupyter lab
+
+
+## PR
+
+("https://github.com/MohamadSheikhAlshabab/linear_regression/pull/1")
